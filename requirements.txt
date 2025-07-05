@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+langchain
+openai
+requests
+pillow
+python-dotenv
+faiss-cpu
